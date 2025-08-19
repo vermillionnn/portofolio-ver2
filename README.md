@@ -1,2 +1,2 @@
 # portofolio-ver2
-New portofolio using react.js
+New portofolio using vue.js
